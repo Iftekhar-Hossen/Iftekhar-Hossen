@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iftekhar Hossen</h1>
 <h3 align="center">Groundworker for api and tools development since 2020</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
